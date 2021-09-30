@@ -31,6 +31,7 @@ public class Test {
         System.out.println("Ten: " + sv.getTen());
         System.out.println("Nam sinh: " + sv.getNam());
         System.out.println("Dia chi: " + sv.getDiachi());
+        System.out.println("--------TT SINH VIEN--------");
 
     }
 }
